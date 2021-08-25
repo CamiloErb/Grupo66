@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 aaaaaaaaa asdfsa
+=======
+aaaaaaaaajaajaja
+generando conflicto
+>>>>>>> 445e7e41e90b3f30df0993912a85c5bc430b3d62
